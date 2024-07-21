@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.8dd604d9.css",
-    "main.js": "/static/js/main.603882a9.js",
+    "main.css": "/static/css/main.f1211922.css",
+    "main.js": "/static/js/main.f670a48b.js",
     "static/media/competition-1.png": "/static/media/competition-1.2eb149c5f33355aaf89e.png",
     "static/media/competition-2.png": "/static/media/competition-2.9c3191707f8df52eda5e.png",
     "static/media/feedback-main.png": "/static/media/feedback-main.439aae8919a49798f94e.png",
@@ -38,11 +38,11 @@
     "static/media/idox.jpg": "/static/media/idox.b53972bb9badfc6aadfa.jpg",
     "static/media/contact-background.jpg": "/static/media/contact-background.80be95ad7f63b96b7df7.jpg",
     "index.html": "/index.html",
-    "main.8dd604d9.css.map": "/static/css/main.8dd604d9.css.map",
-    "main.603882a9.js.map": "/static/js/main.603882a9.js.map"
+    "main.f1211922.css.map": "/static/css/main.f1211922.css.map",
+    "main.f670a48b.js.map": "/static/js/main.f670a48b.js.map"
   },
   "entrypoints": [
-    "static/css/main.8dd604d9.css",
-    "static/js/main.603882a9.js"
+    "static/css/main.f1211922.css",
+    "static/js/main.f670a48b.js"
   ]
 }
